@@ -1,7 +1,0 @@
-setup.py
-wshtest/__init__.py
-wshtest/rgbled.py
-wshtest.egg-info/PKG-INFO
-wshtest.egg-info/SOURCES.txt
-wshtest.egg-info/dependency_links.txt
-wshtest.egg-info/top_level.txt
