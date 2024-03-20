@@ -1,0 +1,5 @@
+.vscode
+build
+dist
+pyb.egg-info
+wshtest.egg-info
